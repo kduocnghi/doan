@@ -9,7 +9,7 @@ import { MaterialModule } from '@app/material.module';
 import { HomeComponent } from './home.component';
 import { QuoteService } from './quote.service';
 
-describe('HomeComponent', () => {
+describe('DetailCommunityComponent', () => {
   let component: HomeComponent;
   let fixture: ComponentFixture<HomeComponent>;
 
